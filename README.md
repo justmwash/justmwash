@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justmwash
-- 👀 I’m interested in c#
-- 🌱 I’m currently learning IT.
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Data Science with Python.
 - 📫 How to reach me ,petermwashori@gmail.com
 
 <!---
